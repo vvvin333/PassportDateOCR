@@ -1,0 +1,5 @@
+
+--path default="photo"
+
+run script:
+python age_from_image.py --image_name "006.jpg"
